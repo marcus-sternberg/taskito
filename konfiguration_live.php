@@ -9,15 +9,10 @@ $anzeige_zeichen = 'icon_quad_gruen.gif';
 
 # define connection parameters for TOM
 
-$rechnername="localhost";
-$datenbankname="taskscout24";
-$benutzername="root";
-$passwort="Krenov";
-
-#$rechnername="bersql03";
-#$datenbankname="taskscout24";
-#$benutzername="taskscout24";
-#$passwort="taskscout24";
+$rechnername="";
+$datenbankname="";
+$benutzername="";
+$passwort="";
 
 // Verbindung zum Host oeffnen    
     if(!$verbindung = mysql_connect($rechnername, $benutzername, $passwort)) 
