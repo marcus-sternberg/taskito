@@ -1,0 +1,11 @@
+Folgende Verzeichnisse müssen angelegt/kopiert werden, weil sie nicht versioniert sind:
+ - mkdir anhang
+ - mkdir ir
+ - mkdir mailer_dir
+
+Für die Verzeichnisse unbedingt chmod 777 setzen!
+ 
+Cronjob:
+ - 00 02 * * * cd /data/is24/TOM; php ./script_serienaufgabe.php > /dev/null 2>&1
+
+Für die Darstellung der Grafiken (Charts) wird die GD Bibliothek benötigt.
