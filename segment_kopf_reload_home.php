@@ -122,7 +122,7 @@ echo '<table border=0><tr><td width="10">&nbsp;</td><td>';
 
 echo '<tr>';
 
-echo '<td width="150" rowspan="2"><a href="index.php"><img src="bilder/tom_small.gif" width="112" height="56" border=0></a>';
+echo '<td width="150" rowspan="2"><a href="index.php"><img src="bilder/tom_small.jpg" width="155" height="80" border=0></a>';
 
 echo '<br><span class="text_klein">logged in as: ' . $_SESSION['hma_login'] . '</span></td>';
 

@@ -9,7 +9,7 @@ echo '<html>';
 
 echo '<head>';
 
-echo '<title>TaskScout24 - Task Organisation Management</title>';
+echo '<title>TASKITO - Task Organisation Management</title>';
 
 echo '<meta http-equiv="content-type" content="text/html; charset=UTF-8">';
 
@@ -131,7 +131,7 @@ echo '<table border="0" width=900>';
 
 echo '<tr>';
 
-echo '<td width="150" rowspan="2"><a href="index.php"><img src="bilder/tom_small.gif" width="112" height="56" border=0></a>';
+echo '<td width="150" rowspan="2"><a href="index.php"><img src="bilder/tom_small.jpg" width="155" height="80" border=0></a>';
 
 echo '<br><span class="text_klein">logged in as: ' . $_SESSION['hma_login'] . '</span></td>';
 
