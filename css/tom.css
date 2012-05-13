@@ -88,15 +88,15 @@ hr.rechts
     {
     border: 0;
     height: 1px;
-    color: #F29955;
-    background-color: #F29955;
+    color: #66a59a;
+    background-color: #66a59a;
     }
 
 h1
     {
     padding: 0;
     margin: 0;
-    color: #F29900;
+    color: #66a59a;
     background: inherit;
     font: bold 1.8em Arial, Sans-Serif;
     letter-spacing: -1px;
@@ -120,7 +120,7 @@ h2
 
 h2 a
     {
-    color: #F29900;
+    color: #66a59a;
     }
 
 h2 a:hover
@@ -138,7 +138,7 @@ a
 
 a:hover
     {
-    color: #F29900;
+    color: #66a59a;
     background: inherit;
     text-decoration: none;
     }
@@ -156,7 +156,7 @@ a.navigation_klein:hover
     font-size: 8px;
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     text-decoration: underline;
-    color: #F29900;
+    color: #66a59a;
     }
 
 a.navigation
@@ -164,7 +164,7 @@ a.navigation
     font-size: 11px;
     font-family: Verdana, Arial, SunSans-Regular, Sans-Serif;
     text-decoration: none;
-    color: #F29900;
+    color: #66a59a;
     }
 
 a.navigation:hover
@@ -202,7 +202,7 @@ a.navigation_weiss:hover
 .box
     {
 
-    background-color: #F29900;
+    background-color: #66a59a;
     padding: 2px;
     margin: 0px;
     color: #2c2c2c;
@@ -228,14 +228,14 @@ a.navigation_weiss:hover
 
 .text_mitte_aktiv
     {
-    color: #F29900;
+    color: #66a59a;
     font-size: 14px;
     font-family: Arial, Sans-serif;
     }
 
 .text_seite
     {
-    color: #F29900;
+    color: #66a59a;
     font-size: 24px;
     font-family: Arial, Sans-serif;
     }
@@ -281,7 +281,7 @@ a.navigation_weiss:hover
 
 .text_mitte_normal
     {
-    color: #F29900;
+    color: #66a59a;
     font-size: 12px;
     font-family: Arial, Sans-serif;
     }
@@ -307,7 +307,7 @@ a.navigation_weiss:hover
     {
     line-height: 100%;
     color: #bbbbbb;
-    font-size: 32px;
+    font-size: 28px;
     font-family: Arial, Sans-serif;
     font-weight: normal;
     }
@@ -385,7 +385,7 @@ input.field
 select
     {
     margin: 0;
-    border: 1px solid #F29900;
+    border: 1px solid #66a59a;
     background: #FFF;
     color: #3D3E40;
     }
@@ -440,7 +440,7 @@ input.formularbutton
     margin: 0;
     font-size: 12px;
     font-family: Arial, Sans-serif;
-    border: 1px solid #F29900;
+    border: 1px solid #66a59a;
     background: #ffffff;
     color: #3D3E40;
     padding: 1px;
@@ -452,7 +452,7 @@ input.formularbutton_rot
     margin: 0;
     font-size: 12px;
     font-family: Arial, Sans-serif;
-    border: 1px solid #F29900;
+    border: 1px solid #66a59a;
     background: #FFBFA0;
     color: #3D3E40;
     padding: 1px;
@@ -464,7 +464,7 @@ input.formularbutton_gruen
     margin: 0;
     font-size: 12px;
     font-family: Arial, Sans-serif;
-    border: 1px solid #F29900;
+    border: 1px solid #66a59a;
     background: #C1E2A5;
     color: #3D3E40;
     padding: 1px;
@@ -493,7 +493,7 @@ input.formularbutton_gruen
     margin: 0px 0 0px 0px;
     position: relative;
     width: 900px;
-    border: 1px solid #FFCA5E; 
+    border: 1px solid #66a59a; 
     border-width: 1px 0 1px 1px;  
     height: 20px;
     z-index: 100;
@@ -516,7 +516,7 @@ input.formularbutton_gruen
     line-height: 19px;
     text-decoration: none;
     text-indent: 5px;
-    border: 1px solid #FFCA5E;
+    border: 1px solid #66a59a;
     border-width: 0px 0px 0px 1px;
     }
 
@@ -544,7 +544,7 @@ input.formularbutton_gruen
 
 #pmenu li:hover>a
     {
-    background: #F29900;
+    background: #66a59a;
     color: #000000;
     }
 
@@ -583,13 +583,13 @@ input.formularbutton_gruen
 * html#pmenu li a:hover
     {
     position: relative;
-    background: #F29900;
+    background: #66a59a;
     color: #000;
     }
 
 #pmenu li a:active, #pmenu li a:focus
     {
-    background: #F29900;
+    background: #66a59a;
     color: #000;
     }
 
@@ -641,7 +641,7 @@ table.matrix
     border-width: 1px;
     border-spacing: 0px;
     border-style: solid;
-    border-color: #F29900;
+    border-color: #66a59a;
     border-collapse: separate;
     background-color: white;
     }
@@ -652,7 +652,7 @@ table.matrix_neu
     border-spacing: 0px;
     border-style: solid;
     border-top: 0px;
-    border-color: #F29900;
+    border-color: #66a59a;
     border-collapse: separate;
     background-color: white;
     }
@@ -682,7 +682,7 @@ table.matrix th
     font-family: Arial, Sans-serif;
     border-style: none;
     border-collapse: separate;
-    background-color: #F29900;
+    background-color: #66a59a;
     }
 
 table.anzeige
@@ -690,7 +690,7 @@ table.anzeige
     border-width: 1px;
     border-spacing: 2px;
     border-style: solid;
-    border-color: #F29900;
+    border-color: #66a59a;
     border-collapse: separate;
     background-color: white;
     }
@@ -699,7 +699,7 @@ table.anzeige td
     {
     border-width: 1px;
     padding: 5px;
-    border-color: #F29900;
+    border-color: #66a59a;
     border-style: solid;
     border-width: 1px;
     }
@@ -708,7 +708,7 @@ table.anzeige th
     {
     border-style: none;
     border-collapse: separate;
-    background-color: #F29900;
+    background-color: #66a59a;
     font-size: 16px;
     font-family: Arial, Sans-serif;
     }
@@ -815,7 +815,7 @@ table.element_no_border
                 {
                 width: 600px;
                 border-collapse: collapse;
-                border: 1px solid #FFCA5E;
+                border: 1px solid #66a59a;
                 }
 
             caption.is24
@@ -825,20 +825,20 @@ table.element_no_border
                 text-indent: 10px;
                 background: url( ../bilder/bg_caption.jpg ) right top;
                 height: 35px;
-                color: #FFAA00;
+                color: #66a59a;
                 }
 
             thead.is24 th.is24
                 {
                 background: url( ../bilder/bg_th.jpg ) no-repeat right;
                 height: 27px;
-                color: #FFFFFF;
+                color: #2c2c2c;
                 font-size: 1.2em;
                 font-weight: bold;
                 padding: 0px 4px;
                 margin: 5px 0px 0px;
                 text-align: left;
-                border-right: 1px solid #FCF1D4;
+                border-right: 1px solid #d5f0eb;
                 }
 
             tbody.is24 tr.is24
@@ -858,7 +858,7 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #514F4F;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;  
+                border-top: 1px solid #66a59a;  
                 text-align: left;
                 }
 
@@ -874,7 +874,7 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #2c2c2c;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;   
+                border-top: 1px solid #66a59a;   
                 text-align: center;
                 background-color: #EE775F;                
                 }
@@ -887,7 +887,7 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #2c2c2c;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;  
+                border-top: 1px solid #66a59a;  
                 text-align: center;
   
                 }
@@ -899,7 +899,7 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #2c2c2c;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;  
+                border-top: 1px solid #66a59a;  
                 text-align: center;
                 background-color: #C1E2A5;                
                 }
@@ -912,7 +912,7 @@ table.element_no_border
                 font-weight: bold;    
                 color: #D42136;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;
+                border-top: 1px solid #66a59a;
                 text-align: left;
                 }
   
@@ -939,7 +939,7 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #000;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;  
+                border-top: 1px solid #66a59a;  
                 text-align: left;
                 }
                
@@ -951,11 +951,32 @@ table.element_no_border
                 font-family: Arial, Helvetica, sans-serif;
                 color: #D42136;
                 padding: 10px 7px;
-                border-top: 1px solid #FFCA5E;  
+                border-top: 1px solid #66a59a;  
                 text-align: left;
                 }
 
 
+#cmdb_vertikal
+{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 10px;
+    margin: 0px;
+    width: 400px;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+caption.cmdb
+    {
+    font: 1.8em/ 1.8em Arial, Helvetica, sans-serif; 
+    text-align: left;
+    text-indent: 10px;
+    background: url( ../bilder/bg_caption.jpg ) right top;
+    height: 35px;
+    color: #66a59a;
+    }
+          
+                
 #is24_vertikal
 {
     font-family: Arial, Helvetica, sans-serif;  
@@ -975,7 +996,7 @@ table.element_no_border
 
 .is24-first
 {
-    background: #F6DFAA;
+    background: #d5f0eb;
     border-right: 10px solid transparent;
     border-left: 0px solid transparent;
 }
@@ -984,23 +1005,23 @@ table.element_no_border
     {
     width: 800px;
     border-collapse: collapse;
-    border: 0px solid #FFCA5E;
+    border: 0px solid #66a59a;
     }
 
 .is24_ir
 {
-    border-top: 1px solid #FFCA5E;
+    border-top: 1px solid #66a59a;
     background: #FFF8E8 url( ../bilder/bg_td2.jpg ) repeat-x;
-    border-right: 10px solid #FCF1D4;
-    border-left: 10px solid #FCF1D4;
+    border-right: 10px solid #d5f0eb;
+    border-left: 10px solid #d5f0eb;
      padding: 10px 7px;
 }
 
 hr.is24_hr {
 border: 0px;
 width: 100%;
-color: #FFCA5E;
-background-color: #FFCA5E;
+color: #66a59a;
+background-color: #66a59a;
 height: 1px;
 }
 
@@ -1014,7 +1035,7 @@ td.is24_ir_head
     padding: 15px 0px 4px 0px;
     margin: 5px 0px 0px;
     text-align: left;
-    border-right: 1px solid #FCF1D4;
+    border-right: 1px solid #d5f0eb;
     }
 
 #is24_layout
