@@ -279,7 +279,6 @@ echo '</ul>';
 
 echo '</div>';
      
-$teampage=1;
 include('segment_liste.php');
 
 include('segment_fuss.php');

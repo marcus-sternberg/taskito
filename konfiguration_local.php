@@ -2,13 +2,13 @@
 # define connection parameters for TASKITO
 
 $rechnername="localhost";
-$datenbankname="104754_taskito";
-$benutzername="104754-taskito";
-$passwort="mosquito.2006";
- 
+$datenbankname="taskito";
+$benutzername="mosquito+2006";
+$passwort="tom!1967";
+
 // Verbindung zum Host oeffnen    
     if(!$verbindung = mysql_connect($rechnername, $benutzername, $passwort)) 
-          die ("Couldnt connect to TASKITO Database!</p>\n");
+          die ("Konnte keine Verbindung herstellen !</p>\n");
       
 // Datenbank auswaehlen
     if (!(mysql_select_db($datenbankname, $verbindung)))

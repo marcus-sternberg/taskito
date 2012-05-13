@@ -8,10 +8,13 @@ Hints for setup:
 
  All of these folders need CHMOD 777
  
-2. In order to see graphs you need the GD lib
+2. In order to see graphs you need the GD lib. For text in graphs we use 'verdana.ttf'. This font is expected in the /css folder.
 
 3. As CRONJOB you need
 
 00 02 * * * cd /your_path; php ./script_serienaufgabe.php > /dev/null 2>&1
 
+
+
 In case of questions send a mail to: marcus@taskito.de
+
