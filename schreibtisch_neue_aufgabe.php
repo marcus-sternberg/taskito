@@ -10,6 +10,8 @@ require_once('konfiguration.php');
 include('segment_session_pruefung.php');
 include('segment_init.php');
 
+$hau_utcid = 0; // Changevariable
+
 # Definiere globale Variablen
 if(isset($_REQUEST['jump'])) {$jump = $_REQUEST['jump'];} else {$jump = 'none';}
 $typen=array();
@@ -414,6 +416,8 @@ else
         $Daten[$varname]=$value;
         }
 
+    if(!isset($Daten['hau_utcid'])) {$Daten['hau_utcid']=0;}
+        
     if($jump=='change') {$Daten['hau_hprid']=6;}
 
     if (isset($Daten['hau_kalender']))

@@ -410,11 +410,7 @@ include('segment_zeilenfarbe.php');
                 $zeile[$inhalt]=substr(datum_anzeigen($zeile[$inhalt]), 0, 8);
                 break;
                      
-            case 'aktualisiert':
 
-                        $zeile[$inhalt]=zeitstempel_anzeigen($zeile[$inhalt]);
-
-                   break;
 
             case 'P-Ende':
                 if ($zeile[$inhalt] == '9999-01-01')

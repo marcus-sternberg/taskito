@@ -108,7 +108,7 @@ $anzeige_angenommen=array
     'angelegt' => 'hau_anlage',
     'P-Ende' => 'hau_pende',
     'Eigner' => 'inhaber',
-    'aktualisiert' => 'letzte_aktualisierung',
+    'aktualisiert' => 'ulo_zeitstempel',
     'Fortschritt [%]' => 'sum_fertig'
     );
 
